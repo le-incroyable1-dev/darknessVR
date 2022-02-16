@@ -6,6 +6,5 @@ environment, light firewood for clarity and enter a mansion to finally end the s
 
 Developed using Unity3D and the Google Cardboard SDK.
 
-![194-1946395_google-cardboard-logo-png-google-clipart](https://user-images.githubusercontent.com/47893192/154214203-4a9deb08-bea2-4f5d-974b-987f7a4420c4.png)
 
 
